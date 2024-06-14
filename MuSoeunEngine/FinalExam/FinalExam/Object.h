@@ -23,6 +23,7 @@ public:
     float x, y;
     float width, height;
     float r, g, b;
+    
 
     Object(float x_cm = 0, float y_cm = 0, float width_cm = 1, float height_cm = 1, float r = 1, float g = 1, float b = 1)
         : x(cmToPx(x_cm)), y(cmToPx(y_cm)), width(cmToPx(width_cm)), height(cmToPx(height_cm)), r(r), g(g), b(b) {}
@@ -60,7 +61,6 @@ public:
     }
 
     void Draw(float screenWidth, float screenHeight) override {
-
         Object::Draw(screenWidth, screenHeight);
 
         glColor3f(0.0f, 0.0f, 0.0f);

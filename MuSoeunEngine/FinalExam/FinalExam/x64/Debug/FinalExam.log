@@ -1,5 +1,8 @@
 ﻿  main.cpp
-D:\KID202227058\FinalExam\packages\glfw.3.4.0\build\native\include\GLFW\glfw3.h(3235,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+D:\s202227058\MuSoeunEngine\FinalExam\packages\glfw.3.4.0\build\native\include\GLFW\glfw3.h(3235,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
   (소스 파일 'main.cpp'을(를) 컴파일하는 중)
   
-  FinalExam.vcxproj -> D:\KID202227058\FinalExam\x64\Debug\FinalExam.exe
+D:\s202227058\MuSoeunEngine\FinalExam\FinalExam\Transform.h(26,25): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+  FinalExam.vcxproj -> D:\s202227058\MuSoeunEngine\FinalExam\x64\Debug\FinalExam.exe
